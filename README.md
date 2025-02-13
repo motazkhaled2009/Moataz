@@ -6,6 +6,7 @@
 </head>
 <body style="background-color: darkslategrey;">
     <a href="https://Moataz Khaled .com">Click here</a>
+       <h1>Moataz Khaled</h1>
          <h2>About Me</h2>
         <img src="IMG_20250207_175532[1].jpg" width="200px" height="250px" class="profile-img" alt="Moataz Khaled">
         <p class="about-me">
