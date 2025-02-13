@@ -17,7 +17,7 @@
             <footer>
         <p>&copy; 2025 Moataz Khaled</p>
     
-<h1>Moataz Khaled interests</h1>        
+<h1></h1>        <h1 style="background-color:powderblue;">Moataz Khaled interests</h1>
         <p>Karate Player | Programmer | Robotics Enthusiast</p>
         
    <a href="#">Home</a>
