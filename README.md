@@ -2,7 +2,11 @@
 <html>
 <head>
     <title>Moataz Khaled - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css"> <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 </head>
 <body style="background-color: darkslategrey;">
     <a href="https://Moataz Khaled .com">Click here</a>
