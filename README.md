@@ -18,15 +18,15 @@
         <p>&copy; 2025 Moataz Khaled</p>
 
     
-        <h1>Moataz Khaled</h1>
+<h1>Moataz Khaled intrestes</h1>        
         <p>Karate Player | Programmer | Robotics Enthusiast</p>
     
 
 
-        <a href="#">Home</a>
+   <a href="#">Home</a>
         <a href="#">About</a>
         <a href="#">Projects</a>
-        <a href="#">Contact</a>
+        <a href="#">Contact</a>     
 
 
 </body>
