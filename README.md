@@ -1,10 +1,10 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
- Moataz Khaled - Portfolio </>
+ <title>Khaled - Portfolio</title> 
     <link rel="stylesheet" href="styles.css"> 
 </head>
-<body style="background-color: darkslategrey;">
+<body style="background-color: rgb(17, 148, 148);">
     <a href="https://motazkhaled2009.github.io/Moataz-/">Click here</a>
        <h1>Moataz Khaled</h1>
         <h2>About Me</h2>   
@@ -15,7 +15,7 @@
             The discipline and determination I gained from karate help me push my limits in both sports and technology.
         </p>
        
-<h1>Moataz Khaled interests</h1>        
+<h1> my interests</h1>        
         <p>Karate Player | Programmer | Robotics Enthusiast</p>
         
    <a href="#">Home</a>
