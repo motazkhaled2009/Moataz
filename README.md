@@ -14,9 +14,7 @@
             Alongside my sports career, I am deeply interested in programming and robotics, continuously learning and working on new technologies. 
             The discipline and determination I gained from karate help me push my limits in both sports and technology.
         </p>
-            <footer>
-        <p>&copy; 2025 Moataz Khaled</p>
-    
+       
 <h1>Moataz Khaled interests</h1>        
         <p>Karate Player | Programmer | Robotics Enthusiast</p>
         
@@ -24,4 +22,7 @@
         <a href="#">About</a>
         <a href="#">Projects</a>
         <a href="#">Contact</a>     
+             <footer>
+        <p>&copy; 2025 Moataz Khaled</p>
+    
 </body></html>
