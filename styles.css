@@ -1,0 +1,46 @@
+/* Basic Styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #000;
+    text-align: center;
+}
+
+nav {
+    background: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+    background: blue;
+    color: white;
+    padding: 20px;
+}
+
+.about, .projects {
+    padding: 20px;
+}
+
+.project-card {
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 10px;
+}
