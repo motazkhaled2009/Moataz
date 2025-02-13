@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Moataz Khaled - Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+ Moataz Khaled - Portfolio </>
+    <link rel="stylesheet" href="styles.css"> 
 </head>
 <body style="background-color: darkslategrey;">
     <a href="https://Moataz Khaled .com">Click here</a>
